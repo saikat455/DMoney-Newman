@@ -25,3 +25,11 @@ The Dmoney API Collection includes a series of HTTP requests to perform CRUD ope
 - **Node.js and Newman**: Install [Node.js](https://nodejs.org/) and Newman globally to run tests via command line:
   ```bash
   npm install -g newman
+
+## Documentation
+https://documenter.getpostman.com/view/33516761/2sB2x6jrSe
+
+## Report
+![image](https://github.com/user-attachments/assets/f2e1e984-b9f9-4147-8884-e064475ae152)
+![image](https://github.com/user-attachments/assets/9c865697-2ac0-47a4-a39e-5c013a6fe08a)
+
