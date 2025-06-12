@@ -1,7 +1,7 @@
 const newman = require('newman');
 
 newman.run({
-    collection: require('./collection.json'),
+    collection: `https://api.postman.com/collections/33516761-0a7dc7ad-31de-4d5f-9a93-556e26b49182?access_key=${process.env.pmatKey}`,
     reporters: `htmlextra`,
     iterationCount: 1,
     reporter: {
