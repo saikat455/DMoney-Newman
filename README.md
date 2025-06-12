@@ -26,6 +26,12 @@ The Dmoney API Collection includes a series of HTTP requests to perform CRUD ope
   ```bash
   npm install -g newman
 
+## Test Cases
+https://docs.google.com/spreadsheets/d/1qQNL-2kjSyaQaf4EfGfCAU0atyIkxgdj/edit?usp=sharing&ouid=109340761754868170420&rtpof=true&sd=true
+
+## Bug / Improvement Report
+https://docs.google.com/spreadsheets/d/1n4YUTr95fWYDf64hgbjBWgLvztSOTvzKUQX2jr5EuB0/edit?usp=sharing
+
 ## Documentation
 https://documenter.getpostman.com/view/33516761/2sB2x6jrSe
 
